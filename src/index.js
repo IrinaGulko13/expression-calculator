@@ -132,8 +132,9 @@ function calculate(arr) {
                 return fin;
             }
             // console.log(variables);
-        }
+       break; }
     }
+    
 
 }
 
